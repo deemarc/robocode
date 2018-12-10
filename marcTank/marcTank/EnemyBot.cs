@@ -50,7 +50,7 @@ namespace marcTank
 
             name = evnt.Name;
         }
-        public void Reset()
+        public virtual void Reset()
         {
             bearing = 0.0;
             distance = 0.0;

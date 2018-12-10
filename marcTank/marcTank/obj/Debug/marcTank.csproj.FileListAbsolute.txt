@@ -2,8 +2,8 @@ C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\bin\Debug\marcTank.dll
 C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\bin\Debug\marcTank.pdb
 C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\bin\Debug\robocode.dll
 C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\bin\Debug\robocode.xml
-C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\obj\Debug\marcTank.csprojAssemblyReference.cache
 C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\obj\Debug\marcTank.csproj.CoreCompileInputs.cache
 C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\obj\Debug\marcTank.csproj.CopyComplete
 C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\obj\Debug\marcTank.dll
 C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\obj\Debug\marcTank.pdb
+C:\Users\Deemarc\Documents\git\robocode\marcTank\marcTank\obj\Debug\marcTank.csprojAssemblyReference.cache

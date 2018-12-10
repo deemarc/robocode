@@ -62,9 +62,8 @@ namespace marcTank
 
         void Move()
         {
-            int direction = rndmizer.Next(0, 360);
-            TurnRight(direction);
-            Ahead(rndmizer.Next(50, 200));
+
+            Ahead(200);
         }
     }
 }
